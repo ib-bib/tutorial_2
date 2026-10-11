@@ -3,3 +3,4 @@ This file will be edited multiple times
 We want to preserve this version
 MASTER / MAIN
 
+This is now the latest version - This should be pulled and cloned
