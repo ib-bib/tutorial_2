@@ -1,5 +1,6 @@
 This is a text file
 This file will be edited multiple times
-We want to preserve this version
-MASTER / MAIN
 
+DEV BRANCH
+
+This version is now radically different from the original
